@@ -18,8 +18,8 @@
   <i>Меня можно найти здесь:</i>
 
   <p align="center">
-  <a href= "https://t.me/rakabidasta"><img src="https://github.com/Rakabidaasta/Rakabidaasta/telegram.png"/></a>
-  <a href= "https://www.instagram.com/rakabidasta/"><img src="https://github.com/Rakabidaasta/Rakabidaasta/instagram.png"/></a>
+  <a href= "https://t.me/rakabidasta"><img src="https://github.com/Rakabidaasta/Rakabidaasta/raw/main/telegram.png"/></a>
+  <a href= "https://www.instagram.com/rakabidasta/"><img src="https://github.com/Rakabidaasta/Rakabidaasta/raw/main/instagram.png"/></a>
   </p>
 
 </p>
